@@ -1,3 +1,7 @@
+//Nama : Ananda Rizky Pratama
+//NIM  : 24060121140118
+//LAB  : PBO C1
+
 class Titik{
 	double absis;
 	double ordinat;
