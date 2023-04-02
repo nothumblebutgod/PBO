@@ -1,3 +1,7 @@
+//Nama : Ananda Rizky Pratama
+//NIM : 24060121140118
+//LAB : C1
+
 public class Asersi1{
   public static void main (String[] args){
     int x = 0;
