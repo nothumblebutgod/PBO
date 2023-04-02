@@ -1,3 +1,7 @@
+//Nama : Ananda Rizky Pratama
+//NIM : 24060121140118
+//LAB : C1
+
 class Lingkaran{
 	private double jariJari;
 	public Lingkaran(double jariJari){
