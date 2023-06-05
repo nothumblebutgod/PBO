@@ -1,4 +1,6 @@
-
+//Nama : Ananda Rizky Pratama
+//NIM  : 24060121140118
+//Lab  : PBO C1
 
 public class BangunDatarGeneric<T extends BangunDatar> {
     private T bangunDatar;
