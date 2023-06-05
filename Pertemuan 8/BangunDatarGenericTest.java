@@ -1,8 +1,6 @@
-/*
- * File : BangunDatarGenericTest.java  17/05/2023
- * Penulis : Aprilyanto Setiyawan Siburian (24060121120022)
- * Deskripsi : main class untuk generic bangun datar
-*/
+//Nama : Ananda Rizky Pratama
+//NIM  : 24060121140118
+//Lab  : PBO C1
 
 public class BangunDatarGenericTest {
     public static void main(String[] args){
